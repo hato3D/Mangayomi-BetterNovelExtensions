@@ -22,27 +22,3 @@
         "notes": ""
     }
 ]
-[
-    {
-        "name": "AllNovel",
-        "id": 2403947282,
-        "baseUrl": "https://allnovel.org",
-        "lang": "en",
-        "typeSource": "single",
-        "iconUrl": "https://github.com/hato3D/Mangayomi-BetterNovelExtensions/blob/main/images/AllNovel.png",
-        "dateFormat": "",
-        "dateFormatLocale": "",
-        "isNsfw": false,
-        "hasCloudflare": false,
-        "sourceCodeUrl": "https://raw.githubusercontent.com/hato3D/Mangayomi-BetterNovelExtensions/refs/heads/main/javascript/novel/src/en/allnovel.js",
-        "apiUrl": "",
-        "version": "0.0.9",
-        "isManga": false,
-        "itemType": 2,
-        "isFullData": false,
-        "appMinVerReq": "0.5.0",
-        "additionalParams": "",
-        "sourceCodeLanguage": 1,
-        "notes": ""
-    }
-]
