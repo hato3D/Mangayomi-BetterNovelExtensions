@@ -10,7 +10,7 @@
         "dateFormatLocale": "",
         "isNsfw": false,
         "hasCloudflare": false,
-        "sourceCodeUrl": "https://raw.githubusercontent.com/hato3D/Mangayomi-BetterNovelExtensions/refs/heads/main/javascript/novel/src/en/novelbuddy.js",
+        "sourceCodeUrl": "https://raw.githubusercontent.com/Swakshan/mangayomi-swak-extensions/refs/heads/main/javascript/novel/src/en/novelbuddy.js",
         "apiUrl": "",
         "version": "0.0.9",
         "isManga": false,
@@ -20,9 +20,12 @@
         "additionalParams": "",
         "sourceCodeLanguage": 1,
         "notes": ""
-    }{
+    }
+]
+[
+    {
         "name": "AllNovel",
-        "id": 6519843058,
+        "id": 2403947282,
         "baseUrl": "https://allnovel.org",
         "lang": "en",
         "typeSource": "single",
@@ -40,5 +43,6 @@
         "appMinVerReq": "0.5.0",
         "additionalParams": "",
         "sourceCodeLanguage": 1,
-        "notes": "wip"}
+        "notes": ""
+    }
 ]
