@@ -20,8 +20,7 @@
         "additionalParams": "",
         "sourceCodeLanguage": 1,
         "notes": ""
-    }
-    {
+    }{
         "name": "AllNovel",
         "id": 6519843058,
         "baseUrl": "https://allnovel.org",
@@ -41,6 +40,5 @@
         "appMinVerReq": "0.5.0",
         "additionalParams": "",
         "sourceCodeLanguage": 1,
-        "notes": "wip"
-    }
+        "notes": "wip"}
 ]
