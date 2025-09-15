@@ -1,4 +1,4 @@
-# Mangayomi Extensions
+# Mangayomi Better Novel Extensions
 
 This repository contains the available extension catalogues for the Mangayomi app.
 
