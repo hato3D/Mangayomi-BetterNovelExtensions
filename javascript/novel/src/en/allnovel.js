@@ -4,7 +4,7 @@ const mangayomiSources = [{
   "baseUrl": "https://allnovel.org",
   "apiUrl": "",
   "iconUrl":
-    "https://raw.githubusercontent.com/hato3D/Mangayomi-BetterNovelExtensions/refs/heads/main/images/AllNovel.png",
+    "https://github.com/hato3D/Mangayomi-BetterNovelExtensions/blob/main/images/AllNovel.png?raw=true",
   "typeSource": "single",
   "itemType": 2, // Use 0 for manga, 1 for anime and 2 for novel
   "version": "1.0.0",
