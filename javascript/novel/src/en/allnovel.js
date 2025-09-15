@@ -1,7 +1,7 @@
 const mangayomiSources = [{
   "name": "AllNovel",
   "lang": "en",
-  "baseUrl": "https://allnovel.org/",
+  "baseUrl": "https://allnovel.org",
   "apiUrl": "",
   "iconUrl":
     "https://github.com/hato3D/Mangayomi-BetterNovelExtensions/blob/main/images/AllNovel.png",
